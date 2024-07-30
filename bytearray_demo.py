@@ -6,6 +6,7 @@ print(b3)
 print(b4)
 b7=(("hello","utf"))
 print(bytearray(b7,"utf"))
+print(b8)
 
 
 b

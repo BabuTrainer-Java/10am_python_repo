@@ -9,7 +9,7 @@ for   x  in f4:
 #  member  operators
 print("app1" in f4)   
 f5= f1.intersection(f2) 
-f6=  f1.intersection(f3)
+f6= f1.intersection(f3)
 print(f5)
 print(f6)
 
